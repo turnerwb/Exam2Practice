@@ -456,7 +456,7 @@ def practice_problem3d(sequence):
     #    DIFFICULTY:      5
     #    TIME ESTIMATE:   8 minutes for each part of this problem.
     ####################################################################
-    
+
     for k in range(len(sequence)):
         if sequence[k] == 0:
             return k
